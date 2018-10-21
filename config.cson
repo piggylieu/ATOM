@@ -1,0 +1,42 @@
+"*":
+  Hydrogen:
+    debug: true
+    globalMode: true
+    kernelNotifications: true
+    outputAreaDefault: true
+  "autocomplete-plus":
+    backspaceTriggersAutocomplete: true
+    defaultProvider: "Symbol"
+    enableExtendedUnicodeSupport: true
+    strictMatching: true
+  core:
+    closeDeletedFileTabs: true
+    colorProfile: "srgb"
+    fileSystemWatcher: "experimental"
+    telemetryConsent: "limited"
+    uriHandlerRegistration: "always"
+    useTreeSitterParsers: true
+  editor:
+    invisibles: {}
+    scrollPastEnd: true
+    showIndentGuide: true
+    showInvisibles: true
+    softWrap: true
+    softWrapAtPreferredLineLength: true
+  "exception-reporting":
+    userId: "945a737a-9224-459d-a90b-8e4bd6df793a"
+  "git-diff":
+    showIconsInEditorGutter: true
+  github:
+    filesystemEventDiagnostics: true
+    gitDiagnostics: true
+    performanceToConsole: true
+    performanceToProfile: true
+    viewChangesForCurrentFileDiffPaneSplitDirection: "right"
+  teletype:
+    askBeforeJoiningPortalViaExternalApp: false
+  welcome:
+    showOnStartup: false
+".python.source":
+  editor:
+    autoIndentOnPaste: true
